@@ -1,6 +1,6 @@
 {
   "name": "@dependabot-fixtures/npm-parent-dependency-with-more-versions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parent companion to https://github.com/dependabot-fixtures/npm-transitive-dependency-with-more-versions",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dependabot-fixtures/npm-parent-dependency-with-more-versions#readme",
   "dependencies": {
-    "@dependabot-fixtures/npm-transitive-dependency-with-more-versions": "^1.0.0"
+    "@dependabot-fixtures/npm-transitive-dependency-with-more-versions": "^2.0.0"
   }
 }
